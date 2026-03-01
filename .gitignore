@@ -16,3 +16,5 @@ trash/**
 .DS_Store
 .DS_Store/**
 user.yaml
+installation.yaml
+default.custom.yaml
