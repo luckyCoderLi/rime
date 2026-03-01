@@ -1,0 +1,18 @@
+# 忽略的文件
+build/
+build/**
+flypy.userdb/
+flypy.userdb/**
+sync/
+sync/**
+trash/
+trash/**
+.cursor/
+.cursor/**
+.vscode/
+.vscode/**
+.idea/
+.idea/**
+.DS_Store
+.DS_Store/**
+user.yaml
