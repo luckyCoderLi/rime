@@ -167,7 +167,7 @@ recognizer:
     expression: "^(=.*|ok[a-z']*)$"
 
 menu:
-  page_size: 5 #候选项数
+  page_size: 3 #候选项数
   
 style:
   text_orientation: horizontal # 候选词内容排列方向，horizontal 水平，vertical 竖排
