@@ -45,7 +45,6 @@ https://flypy.cc/ix	oix
 #次选字词
 簟	dmv
 镞	zuj
-榇	ifmm
 焰	yjhj
 解	xpdn
 湎	mmdm
@@ -62,7 +61,6 @@ https://flypy.cc/ix	oix
 魇	yjig
 鸨	bcb
 龅	bcv
-荜	bicu
 璧	biu
 槟	bkm
 煸	bmh
@@ -70,7 +68,6 @@ https://flypy.cc/ix	oix
 孛	bou
 粢	cid
 𬱖	diy
-箪	djv
 膻	djo
 汾	ffd
 钒	fjj
@@ -93,14 +90,11 @@ https://flypy.cc/ix	oix
 嗬	hek
 𬌗	hey
 恍	hlx
-奂	hrd
 泓	hsd
 斛	hud
-烀	huh
 烩	hvh
 骅	hxm
 焯	ich
-梣	ifm
 氅	ihx
 怅	ihxi
 浐	ijd
@@ -131,17 +125,14 @@ https://flypy.cc/ix	oix
 僭	jmr
 戬	jmy
 敫	jnb
-醮	jny
 诘	jpy
 疚	jqb
 苣	juc
 飓	juj
 桔	jum
 惧	jux
-遽	juz
 镓	jxj
 咯	kak
-贶	klk
 吏	lia
 荔	lic
 厘	lii
@@ -163,7 +154,6 @@ https://flypy.cc/ix	oix
 摩	mog
 苜	muc
 媒	mwn
-匏	pcd
 莆	puc
 芑	qic
 漆	qid
@@ -172,7 +162,6 @@ https://flypy.cc/ix	oix
 憩	qiq
 骞	qmb
 铅	qmj
-觫	sud
 燧	svh
 遢	taz
 溏	thd
@@ -194,10 +183,8 @@ https://flypy.cc/ix	oix
 汁	vid
 执	vif
 枳	vim
-祗	vip
 智	viu
 湛	vjd
-𫗴	vju
 渚	vud
 株	vum
 诬	wuy
@@ -210,7 +197,6 @@ https://flypy.cc/ix	oix
 奚	xip
 硒	xiu
 惺	xkx
-庠	xlg
 岘	xme
 蚬	xmi
 娴	xmn
@@ -236,9 +222,7 @@ https://flypy.cc/ix	oix
 衍	yji
 铅	yjj
 檐	yjm
-鄢	yjv
 琰	yjw
-酽	yjy
 莹	ykc
 膺	ykg
 鹦	ykk
@@ -251,23 +235,20 @@ https://flypy.cc/ix	oix
 萸	yuc
 浴	yud
 鬻	yug
+钰	yuj
 圄	yuk
 觎	yur
-鹬	yus
 谀	yuy
 纭	yys
-尢	yzu
 蚰	yzi
 渍	zid
 蕃	fjct
 麸	fuff
 蝠	fuit
 赙	fukc
-鸱	iid
 矶	jiuj
 蛎	liiw
 栎	liml
-蠃	low
 洌	lpdd
 闾	lvmk
 暝	mkob
@@ -277,7 +258,6 @@ https://flypy.cc/ix	oix
 什	uir
 姝	uun
 蜇	vef
-躅	vuz
 嵬	wweg
 烜	xrh
 呷	xxkj
@@ -291,10 +271,7 @@ https://flypy.cc/ix	oix
 彧	yua
 淤	yudd
 咨	zidk
-骱	jpg
-燠	yuh
 乩	jil
-殳	uuj
 按键	aj
 背景	bj
 参加	cj
@@ -335,13 +312,14 @@ https://flypy.cc/ix	oix
 困难	kn
 两边	lb
 链接	lj
+两位	lw
 慢慢	mm
 面前	mq
 每天	mt
 情况	qk
 前面	qm
 恰恰	qq
-前天	qt
+其他	qt
 歧视	qu
 确认	qr
 仍然	rr
@@ -365,7 +343,7 @@ https://flypy.cc/ix	oix
 征服	vf
 只会	vh
 支持	vi
-整句	vj
+直接	vj
 追求	vq
 只是	vu
 真正	vv
@@ -445,6 +423,7 @@ https://flypy.cc/ix	oix
 敲门砖	qmv
 起跑线	qpx
 情人节	qrj
+腆着脸	tvl
 说服力	ufl
 石家庄	ujv
 势利眼	uly
@@ -482,6 +461,7 @@ https://flypy.cc/ix	oix
 暗器	anqi
 芭蕉	bajn
 不谙世事	bauu
+斑斑点点	bbdd
 本本分分	bbff
 变本加厉	bbjl
 边边角角	bbjj
@@ -571,6 +551,7 @@ https://flypy.cc/ix	oix
 百无聊赖	bwll
 背弃	bwqi
 不外如是	bwru
+不识抬举	butj
 百无一用	bwyy
 报喜不报忧	bxby
 百依百顺	bybu
@@ -583,6 +564,7 @@ https://flypy.cc/ix	oix
 大涨	davh
 独霸一方	dbyf
 捣蛋	dcdj
+大操大办	dcdb
 打草惊蛇	dcju
 多此一举	dcyj
 单打独斗	dddd
@@ -595,6 +577,7 @@ https://flypy.cc/ix	oix
 胆大妄为	ddww
 大跌眼镜	ddyj
 多多益善	ddyu
+吊儿郎当	deld
 达官贵人	dggr
 电光石火	dguh
 担纲	djgh
@@ -1080,6 +1063,7 @@ https://flypy.cc/ix	oix
 面无人色	mwrs
 美貌	mwmc
 梅雨	mwyu
+目无尊长	mwzv
 名言警句	myjj
 鸟尽弓藏	njgc
 南海	njhd
@@ -1163,7 +1147,7 @@ https://flypy.cc/ix	oix
 齐齐哈尔	qqhe
 清清爽爽	qquu
 卿卿我我	qqww
-芊芊玉手	qqyu
+穷其一生	qqyu
 求人不如求己	qrbj
 全称	qrig
 诠释	qrui
@@ -1354,7 +1338,6 @@ https://flypy.cc/ix	oix
 中规中矩	vgvj
 至高无上	vgwu
 这个月	vgy
-正义	vgyi
 涨幅	vhfu
 追悔莫及	vhmj
 致辞	vici
@@ -1393,7 +1376,6 @@ https://flypy.cc/ix	oix
 嘱咐	vufu
 主观	vugr
 著称	vuig
-主见	vujm
 驻留	vulq
 著书立说	vulu
 著名	vumk
@@ -1556,6 +1538,7 @@ https://flypy.cc/ix	oix
 遐想	xxxl
 下限	xxxm
 先下一城	xxyi
+纤纤玉手	xxyu
 心心相印	xxxy
 小心眼	xxy
 香消玉殒	xxyy
@@ -1575,6 +1558,7 @@ https://flypy.cc/ix	oix
 欲罢不能	ybbn
 摇摆不定	ybbd
 引渡	ybdu
+一般见识	ybju
 愚不可及	ybkj
 眼波流转	yblv
 一笔抹杀	ybmu
@@ -6969,7 +6953,7 @@ AA制	aav
 🙃	oidl
 😔	oiis
 🤮	oiot
-😅	oiem
+😅	oikx
 🤢	oiex
 🥺	oikq
 🤓	oiud
@@ -7054,8 +7038,9 @@ AA制	aav
 🍜	oimm
 💰	oiqm
 ❓	oiwh
-✅	oidv
-❎	oico
+❗	oijt
+✔	oidv
+❌	oico
 🇨🇳	oigq
 ☕️	oikf
 💦	oiuv
@@ -7085,6 +7070,28 @@ AA制	aav
 🙂‍↕️	oidt
 🍆	oiqz
 😅	oigg
+😨	oihp
+🥺	oiwq
+🧚‍♀️	oijl
+🎅	oilr
+👩‍❤️‍👨	oiaq
+🥷	oirv
+🤰	oiyf
+💃	oitw
+🧎	oiqd
+💞	oiax
+👋	oihu
+😮‍💨	oitq
+🥶	oifd
+😶‍🌫️	oiwm
+🤦	oiwn
+🧠	oidn
+🫀	oixz
+🚶🐎👀🌸	oigh
+🐎🐎🐅🐅	oimh
+😭😄🙅🉐	oibd
+🐓✈️🥚🔨	oidd
+
 #符号
 一	oba	111
 丨	obl	111
@@ -8409,95 +8416,33 @@ m̀	opm	80
 🤗	oib
 💢	oin
 😋	oim
-# 一简词
-又	y
-遮	ve
-按	a	99
-吧	b
-宝	bc
-笨	bf
-逼	bi
-甭	bg
-背	bw
-此	c
-猜	cd
-打	d	99
-达	da
-道	dc
-逗	dz
-嗯	e
-非	f	99
-份	ff
-疯	fg
-复	fu
-管	g	99
-搞	gc
-钙	gd
-哥	ge
-官	gr
-故	gu
-化	h
-华	hx
-壶	hu
-初	i
-扯	ie
-程	ig
-臭	iz
-见	j
-极	ji
-贱	jm
-佳	jx
-块	k	99
-抠	kz
-立	l	99
-捋	lv
-溜	lq
-嘛	m
-骂	ma
-美	mw
-哪	n	99
-浓	ns
-屁	p	99
-期	q	99
-弃	qi
-入	r
-惹	re
-忍	rf
-扔	rg
-随	s	99
-寺	si
-涩	se
-它	t
-淘	tc
-替	ti
-舔	tm
-通	ts
-退	tv
-时	u
-室	ui
-省	ug
-守	uz
-之	v
-症	vg
-终	vs
+# 一简次选
+期	q
 位	w
-文	wf
-忘	wh
-玩	wj
-未	ww
-性	x
-心	xb
-型	xk
-凶	xs
-野	ye
-杨	yh
-严	yj
-园	yr
-友	yz
-子	z
-遭	zc
-揍	zz
-坐	zo
+打	d
+管	g
+之	v
+时	u
+见	j
+安装	a
+比较	b
+词库	c
+嗯嗯	e
+复杂	f
+忽略	h
+重新	i
+可以	k
+理解	l
+没有	m
+内容	n
+哦哦	o
+皮肤	p
+然后	r
+所有	s
+提供	t
+显示	x
+有时	y
+自动	z
 # 随心   自定编码规则，零星调节重码或别扭码
 单元	dye
 回忆	hyx
@@ -8517,6 +8462,8 @@ m̀	opm	80
 音形	yxk
 觉得	jdi
 刻意	kys
+整句	vjb
+便宜	pyb
 智	viud
 计	jiyd
 辨	bmld

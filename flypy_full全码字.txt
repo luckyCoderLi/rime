@@ -17,6 +17,7 @@
 # 
 # 
 嶅	aofe
+薜	bicu
 襞	biuy
 邶	bwle
 萆	bicu
@@ -58,6 +59,7 @@
 𨱏	dajk
 鿎	dauz
 澹	djdk
+箪	djvl
 羝	diyd
 𬭊	dujt
 姶	eenk
@@ -89,10 +91,12 @@
 縠	huuy
 翚	hvxi
 冱	hudh
+烀	huhh
 扞	hjfg
 烠	hvho
 浛	hjdk
 㿠	hlbw
+奂	hrdd
 镮	hrjy
 咍	hdkk
 瑝	hlww
@@ -110,6 +114,8 @@
 𥻗	iama
 柷	iume
 樗	iumk
+鸱	iidn
+榇	ifmm
 梴	ijmz
 刬	ijjd
 楂	iama
@@ -117,6 +123,7 @@
 斶	iuji
 襜	ijpk
 樘	igmt
+梣	ifmv
 煁	ifhv
 艟	isvl
 楮	iumo
@@ -130,6 +137,7 @@
 剞	jidd
 锩	jrjv
 僬	jnrh
+醮	jnyh
 楗	jmmz
 伋	jirj
 岊	jpbe
@@ -171,8 +179,10 @@
 赆	jbkd
 琎	jbwz
 𬣡	jmyj
+遽	juzu
 𬂩	jxmj
 匼	kekk
+贶	klke
 𫠆	kvur
 闿	kdmj
 悝	lixl
@@ -219,6 +229,7 @@
 冯	pkdm
 帡	pkjk
 舥	pavb
+匏	pcds
 蒱	pucf
 簰	pdvu
 嚭	piuk
@@ -253,6 +264,7 @@
 𫗧	suuu
 凘	sidj
 飔	sijx
+觫	sudu
 穟	svhz
 尿	svuu
 溏	thdk
@@ -312,11 +324,13 @@
 霅	vayk
 蠋	vuii
 浈	vfdr
+祗	vipd
 跖	vizu
 黹	viyd
 邾	vuve
 咤	vakq
 鄣	vhle
+𫗴	vjua
 舯	vsvv
 𬣞	vuya
 屯	vyav
@@ -339,8 +353,8 @@
 鳂	wwan
 螱	wwui
 亹	wwwq
-洿	wudk
 浯	wudk
+洿	wudk
 鼯	wujk
 杌	wumw
 镡	xbju
@@ -373,6 +387,7 @@
 湑	xudo
 缐	xmsu
 瑆	xkwu
+庠	xlgy
 谖	xryy
 憙	xiux
 熻	xihx
@@ -393,6 +408,7 @@
 𬹼	xpvl
 𬣙	xuyy
 𬘓	xysi
+尢	yzuv
 蝓	yuid
 艾	yicx
 匜	yiky
@@ -469,6 +485,14 @@
 䎖	zgbx
 赀	zivr
 𫟷	lijl
+燠	yuhd
+酽	yjyy
+鹬	yusn
+躅	vuzi
+骱	jpgl
+鄢	yjve
+蠃	lowf
+殳	uujy
 𩽾	anan
 挨	aifu
 唉	aiku
@@ -659,13 +683,13 @@
 氐	diud
 谛	diyj
 啖	djkh
-箪	djvl
 惮	djxl
 簟	dmvu
 凋	dndk
 牒	dppm
 煅	drhy
 咚	dskd
+洞	dsdk
 垌	dstk
 黩	duhd
 蠹	duai
@@ -741,7 +765,6 @@
 痱	fwbf
 唪	fgkl
 筏	favg
-轧	gaiv
 硌	geuk
 铬	gejk
 梗	ggmg
@@ -876,13 +899,11 @@
 崡	hjek
 邯	hjge
 隍	hlew
-奂	hrdd
 豢	hrju
 蕻	hscb
 泓	hsds
 轰	hsiy
 斛	hudu
-烀	huhh
 怙	huxk
 烩	hvhs
 珲	hvwi
@@ -900,7 +921,7 @@
 蝉	ijil
 馋	ijud
 忏	ijxq
-梣	ifmv
+斥	iipd
 漦	iiwu
 噇	ilkl
 厨	iuic
@@ -913,6 +934,7 @@
 超	ictk
 撤	iefw
 衬	ifpc
+谶	ifyj
 撑	igfu
 诚	igyi
 长	ihpn
@@ -952,7 +974,6 @@
 徜	ihik
 氅	ihxm
 茌	iicu
-鸱	iidn
 嗤	iiki
 蚩	iivi
 浐	ijdi
@@ -1045,7 +1066,6 @@
 焦	jnrh
 礁	jnuh
 酵	jnyz
-敫	jnbw
 接	jpfn
 洁	jpdk
 戒	jpgc
@@ -1111,7 +1131,6 @@
 敫	jnbw
 峤	jnel
 铰	jnjx
-醮	jnyh
 桀	jpxm
 诘	jpyk
 截	jpuf
@@ -1122,16 +1141,15 @@
 飓	jujb
 趄	jutq
 琚	juwk
-遽	juzu
 蛱	jxij
 镓	jxju
 枷	jxmk
 迦	jxzk
 麇	jygh
 竣	jylw
+军	jybi
 迳	jkzg
 醵	juyu
-骱	jpgl
 乩	jilv
 诳	klyw
 克	keue
@@ -1157,8 +1175,8 @@
 咯	kakk
 尻	kcuj
 恪	kexk
-贶	klke
 匡	klkw
+孔	kszv
 刳	kudd
 喾	kuxk
 睽	kvot
@@ -1166,12 +1184,12 @@
 垲	kdtj
 恳	kfgx
 轲	keik
+瘌	labd
 铑	lcjb
 濑	lddr
 箓	luvu
 氯	lvqu
 吏	lian
-蠃	lowf
 坽	lkts
 棱	lkmw
 滦	lrdm
@@ -1394,7 +1412,6 @@
 曝	puou
 淠	pidl
 嫔	pbnb
-匏	pcds
 咆	pcks
 俳	pdrf
 郫	pipe
@@ -1414,6 +1431,7 @@
 瑔	qrwu
 鼩	qujk
 区	qukx
+囚	qqkr
 祛	qups
 亲	qblm
 侵	qbry
@@ -1492,6 +1510,7 @@
 啬	seuk
 嘶	sikj
 司	sivk
+漦	siwu
 竦	sslu
 讼	ssys
 粟	suxm
@@ -1506,7 +1525,6 @@
 耜	silk
 淞	ssds
 涑	sudu
-觫	sudu
 燧	svhz
 飕	szjy
 沓	tauo
@@ -1577,7 +1595,6 @@
 隃	uued
 椹	ufmv
 闪	ujmr
-衫	ujpp
 沙	uadu
 杉	uamp
 稍	ucho
@@ -1658,12 +1675,10 @@
 哂	ufkx
 嵊	ugen
 珅	ufwu
-殳	uujy
 扎	vafv
 浙	vedj
 蜇	vefi
 砧	vfuk
-祗	vipd
 纸	visu
 奘	vlvd
 窄	vdbv
@@ -1743,7 +1758,6 @@
 踯	vize
 蘸	vjch
 湛	vjdv
-𫗴	vjua
 禚	voph
 酌	voyu
 颛	vrer
@@ -1868,6 +1882,7 @@
 须	xupr
 墟	xuty
 恤	xuxx
+侠	xxrj
 狭	xxqj
 霞	xxyy
 殉	xydo
@@ -1883,7 +1898,6 @@
 荇	xkci
 相	xlmo
 飨	xlxl
-庠	xlgy
 藓	xmcy
 仙	xmre
 冼	xmde
@@ -1923,7 +1937,6 @@
 嬴	ykwf
 橼	yrmu
 瀹	ytdc
-尢	yzuv
 虞	yuht
 馧	yyhm
 韵	yyld
@@ -1974,7 +1987,6 @@
 燕	yjnh
 易	yiow
 严	yjyp
-酽	yjyy
 延	yjzv
 颖	ykbr
 俨	yjry
@@ -2007,6 +2019,7 @@
 庾	yugy
 鬻	yugl
 屿	yuey
+钰	yujy
 狱	yuqq
 预	yusr
 郁	yuue
@@ -2045,7 +2058,6 @@
 铅	yjjk
 腌	yjod
 研	yjuk
-鄢	yjve
 筵	yjvz
 琰	yjwh
 恹	yjxq
@@ -2064,7 +2076,6 @@
 圄	yukk
 禺	yuld
 觎	yure
-鹬	yusn
 聿	yuvl
 谀	yuyy
 殒	yydr
@@ -2080,7 +2091,6 @@
 飏	yhjp
 祐	yzpk
 验	yjma
-燠	yuhd
 柚	yzmy
 馌	yeum
 杂	zajm
