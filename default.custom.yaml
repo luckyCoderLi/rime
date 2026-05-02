@@ -3,6 +3,11 @@ customization:
 patch:
   schema_list:
     - schema: flypy # 添加小鹤音形
+    - schema: yuling          # 標準模式
+    - schema: yuling_fluency  # 語流模式：整句連打、自動成詞
+    # - schema: yuling_essence  # 整句模式：整句連打、固定候選
+    # - schema: yuling_pop      # 頂屏模式：候選暫存，延遲頂屏
+    # - schema: yuling_extreme  # 五碼模式：全碼五碼，日月規則
 
 #
 # 可用的按键有 Caps_Lock, Shift_L, Shift_R, Control_L, control_R
