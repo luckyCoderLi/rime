@@ -17,4 +17,6 @@ trash/**
 .DS_Store/**
 user.yaml
 installation.yaml
-default.custom.yaml
+*.userdb/
+*.userdb.txt
+.codex
