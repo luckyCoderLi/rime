@@ -5,6 +5,9 @@ patch:
     - schema: flypy # 添加小鹤音形
     - schema: yuling          # 標準模式
     - schema: yuling_fluency  # 語流模式：整句連打、自動成詞
+    - schema: yujoy           # 卿雲·繁簡通打
+    - schema: yujoy_sc        # 卿雲·陆标简码
+    - schema: yujoy_fluency   # 卿雲·全碼連打
     # - schema: yuling_essence  # 整句模式：整句連打、固定候選
     # - schema: yuling_pop      # 頂屏模式：候選暫存，延遲頂屏
     # - schema: yuling_extreme  # 五碼模式：全碼五碼，日月規則

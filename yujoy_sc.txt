@@ -1,0 +1,24 @@
+# Rime table
+#@/db_name	yujoy_sc
+#@/db_type	tabledb
+#@/rime_version	1.16.1
+#@/tick	27
+的	d	4
+这	euc	2
+一	f	4
+来	ft	4
+为	i	4
+是	j	2
+中	k	4
+了	l	2
+大	md	4
+不	n	2
+上	o	4
+个	u	4
+个	uls	2
+到	uo	2
+人	ur	2
+原	v	2
+我	w	2
+有	x	2
+在	xl	2
