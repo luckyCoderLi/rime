@@ -3,6 +3,7 @@ customization:
 patch:
   schema_list:
     - schema: flypy # 添加小鹤音形
+    - schema: xiaolu_he_shuangpin_he_xing  # 小鹭音形·小鹤双拼+鹤形
     - schema: yuling          # 標準模式
     - schema: yuling_fluency  # 語流模式：整句連打、自動成詞
     - schema: yujoy           # 卿雲·繁簡通打
