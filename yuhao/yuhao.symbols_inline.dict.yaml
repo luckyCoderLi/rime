@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繁简通
-# 版本: 20260302
+# 版本: 20261024
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://shurufa.app>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.symbols_inline"
-version: "20260302"
+version: "20261024"
 sort: original
 columns:
   - text
@@ -148,14 +148,20 @@ columns:
 」	kkdy
 『	kksy
 』	kksy
+【	kkkh
 【	kkft
+】	kkkh
 】	kkft
 〒	kkyj
 〓	kkfk
 〔	kklj
+〔	kkkh
 〔〕	kklj
 〕	kklj
+〕	kkkh
+〖	kkkh
 〖	kkft
+〗	kkkh
 〗	kkft
 〝	kksj
 〞	kksj
@@ -11874,8 +11880,8 @@ columns:
 ＄	kkmy
 ％	kkbf
 ＆	kkhh
-（	kkzk
-）	kkyk
+（	kkkh
+）	kkkh
 ＊	kkxh
 ＋	kkjh
 ，	kkdh
@@ -11891,15 +11897,15 @@ columns:
 ＠	kkat
 Ｋ	kkk
 Ｏ	kko
-［	kkzk
+［	kkkh
 ＼	kkfh
-］	kkyk
+］	kkkh
 ＾	kksk
 ＿	kkxh
 ｀	kkyh
-｛	kkzk
+｛	kkkh
 ｜	kkxh
-｝	kkyk
+｝	kkkh
 ～	kkbl
 ￠	kkmf
 ￡	kkyb
@@ -11922,8 +11928,8 @@ $	kkmy
 :	kkmh
 =	kkdh
 ?	kkwh
-[	kkfk
-]	kkfk
+[	kkkh
+]	kkkh
 biàn	kkbi
 biào	kkbi
 bián	kkbi
@@ -13932,8 +13938,8 @@ zǔo	kkzu
 ‵	kkzy
 ‶	kkzy
 ‷	kkzy
-‹	kkkh
-›	kkkh
+‹	kkhz
+›	kkhy
 ※	kkxh
 ‼	kkth
 ‽	kkwh
@@ -13943,6 +13949,7 @@ zǔo	kkzu
 ℃	kkss
 ≠	kkbd
 ⎷	kkye
+␣	kkkg
 ①	kkyi
 ②	kker
 ③	kksa
@@ -14900,11 +14907,13 @@ zǔo	kkzu
 『	bdsy
 』	bdsy
 〔	bdlj
+〔	bdkh
 〕	bdlj
+〕	bdkh
 □	bdxq
 ！	bdth
-（	bdzk
-）	bdyk
+（	bdkh
+）	bdkh
 ，	bddh
 ：	bdmh
 ；	bdfh

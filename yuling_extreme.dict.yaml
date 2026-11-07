@@ -1,11 +1,11 @@
 # encoding: utf-8
 #
 # 靈明·極
-# 版本: 20260302
+# 版本: 20261024
 #
 ---
 name: "yuling_extreme"
-version: "20260302"
+version: "20261024"
 sort: original
 import_tables:
   # 以下是簡碼字詞，空格上屏
@@ -22,7 +22,7 @@ import_tables:
   - yuhao/yuling_sc.words_essence
   - yuhao/yuling.words_essence
   # 以下是全碼詞庫
-  - yuhao/yuling_sc.words 
+  - yuhao/yuling_sc.words
   - yuhao/yuling_tc.words
   # 以下是低優先級用户自定义詞庫
   - yuhao/yuhao.extended

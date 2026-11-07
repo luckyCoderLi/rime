@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繁简通
-# 版本: 20260302
+# 版本: 20261024
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://shurufa.app>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.symbols"
-version: "20260302"
+version: "20261024"
 sort: original
 columns:
   - text
@@ -154,14 +154,20 @@ columns:
 」	/dyy
 『	/syz
 』	/syy
+【	/khz
 【	/ftz
+】	/khy
 】	/fty
 〒	/yj
 〓	/fk
 〔	/ljz
+〔	/khz
 〔〕	/lj
 〕	/ljy
+〕	/khy
+〖	/khz
 〖	/ftz
+〗	/khy
 〗	/fty
 〝	/sjz
 〞	/sjy
@@ -11885,8 +11891,8 @@ columns:
 ＄	/my
 ％	/bf
 ＆	/hh
-（	/zkh
-）	/ykh
+（	/khz
+）	/khy
 ＊	/xh
 ＋	/jh
 ，	/dh
@@ -11902,15 +11908,15 @@ columns:
 ＠	/at
 Ｋ	/k
 Ｏ	/o
-［	/zk
+［	/khz
 ＼	/fh
-］	/yk
+］	/khy
 ＾	/sk
 ＿	/xh
 ｀	/yh
-｛	/zk
+｛	/khz
 ｜	/xh
-｝	/yk
+｝	/khy
 ～	/bl
 ￠	/mf
 ￡	/yb
@@ -11933,8 +11939,8 @@ $	/my
 :	/mh
 =	/dh
 ?	/wh
-[	/fkz
-]	/fky
+[	/khz
+]	/khy
 biàn	/bian
 biào	/biao
 bián	/bian
@@ -13944,8 +13950,8 @@ zǔo	/zuo
 ‵	/zy
 ‶	/zy
 ‷	/zy
-‹	/khz
-›	/khy
+‹	/hz
+›	/hy
 ※	/xh
 ‼	/th
 ‽	/wh
@@ -13955,6 +13961,7 @@ zǔo	/zuo
 ℃	/ssd
 ≠	/bd
 ⎷	/yes
+␣	/kg
 ①	/yi
 ②	/er
 ③	/san
@@ -14962,12 +14969,14 @@ zǔo	/zuo
 『	/bdsyz
 』	/bdsyy
 〔	/bdljz
+〔	/bdkhz
 〕	/bdljy
+〕	/bdkhy
 □	/bdxq
 □	/bdxqh
 ！	/bdth
-（	/bdzkh
-）	/bdykh
+（	/bdkhz
+）	/bdkhy
 ，	/bddh
 ：	/bdmh
 ；	/bdfh
